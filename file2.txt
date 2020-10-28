@@ -1,10 +1,4 @@
 THIS IS THE NEW FILE THAT I ADDED
 
+more changes has been
 
-
-CREATE NEW FILE CALLED file2.txt
-commit the change
-
-Edit the content of file3.txt save and commit again
-
-Edit both files file1.txt and file2.txt, observe the change in GitHub Desktop and commit both changes in one shot
